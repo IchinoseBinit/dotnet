@@ -8,7 +8,7 @@ public class Program
         Console.WriteLine("Hello World");
         Sum sum = new Sum();
         // Class name variable name =  new (keyword) constructor
-        double totalSum = sum.GetSum(30, 55);
+        double totalSum = sum.GetSum(30, 55, 45);
         Console.WriteLine(totalSum);
     }
 }
