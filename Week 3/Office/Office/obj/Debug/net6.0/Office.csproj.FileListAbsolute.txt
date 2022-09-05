@@ -1,0 +1,15 @@
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.csproj.AssemblyReference.cache
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.AssemblyInfoInputs.cache
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.AssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.csproj.CoreCompileInputs.cache
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\bin\Debug\net6.0\Office.exe
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\bin\Debug\net6.0\Office.deps.json
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\bin\Debug\net6.0\Office.runtimeconfig.json
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\bin\Debug\net6.0\Office.dll
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\bin\Debug\net6.0\Office.pdb
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.dll
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\refint\Office.dll
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.pdb
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\Office.genruntimeconfig.cache
+C:\Users\binit\OneDrive\Desktop\dotnet\Week 2\Office\Office\obj\Debug\net6.0\ref\Office.dll
