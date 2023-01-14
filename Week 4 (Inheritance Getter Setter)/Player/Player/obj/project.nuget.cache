@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y8R44hJ3bYDKsfwYNIMzJS2mCfc4jen+w/08d9vvkD8CBQHm9BDoHxMGlRDxB0rc+1Gku8pK8ge1L+WfbwFgsw==",
+  "dgSpecHash": "gTXMh8KnYdnXLdjnmTXO49jWXVuzfUpsXAhDuSLwrqFhjSFR2sXtpLwe9xE9djsWT4xBmAGqveqd4cQLi/itkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\Player.csproj",
+  "projectFilePath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\Player.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

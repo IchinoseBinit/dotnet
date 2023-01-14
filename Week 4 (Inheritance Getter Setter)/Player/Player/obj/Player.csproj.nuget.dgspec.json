@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\Player.csproj": {}
+    "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\Player.csproj": {}
   },
   "projects": {
-    "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\Player.csproj": {
+    "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\Player.csproj",
+        "projectUniqueName": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\Player.csproj",
         "projectName": "Player",
-        "projectPath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\Player.csproj",
+        "projectPath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\Player.csproj",
         "packagesPath": "C:\\Users\\binit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 2\\Player\\Player\\obj\\",
+        "outputPath": "C:\\Users\\binit\\OneDrive\\Desktop\\dotnet\\Week 4 (Inheritance Getter Setter)\\Player\\Player\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binit\\AppData\\Roaming\\NuGet\\NuGet.Config",

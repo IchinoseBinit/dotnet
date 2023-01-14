@@ -11,10 +11,13 @@ namespace Player
         private string name;
         private string address;
         private int age;
+
+        // Declaration
         private string color;
 
         public Human(string name, string address, int age, string color) 
         {
+            // initialization
             this.name = name;
             this.address = address;
             this.age = age;
